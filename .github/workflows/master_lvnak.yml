@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'lvnak'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E09ABB32E26C4BC98F479E0990AA68D9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16D969235F1042FCBDC7C0CCAB7433F8 }}
           package: .
